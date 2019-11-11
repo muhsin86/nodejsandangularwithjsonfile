@@ -1,0 +1,73 @@
+﻿{
+  "information": [
+    {
+      "info": "Jag heter Mohsen Ali Mohsen."
+    },
+    {
+      "info":         "Jag läser Webbutveckling, 120 hp distans på Mittuniversitetet i Sundsvall och Östersund."
+    }
+  ],
+  "kurser": [
+    {
+      "kurskod":      "DT057G",
+      "namn":         "Webbutveckling I",
+      "progression":  "A",
+      "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15472"
+    },
+    {
+      "kurskod":      "DT093G",
+      "namn":         "Webbutveckling II",
+      "progression":  "B",
+      "kursplan":     "http://www.miun.se/utbildning/kurser/sok-kursplan/kursplan?kursplanid=15474"
+    },
+    {
+      "kurskod":      "DT084G",
+      "namn":         "Introduktion till programmering med JavaScript",
+      "progression":  "A",
+      "kursplan":     "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=21877"
+    },
+    {
+      "kurskod":      "DT163G",
+      "namn":         "Digital bildbehandling för webb",
+      "progression":  "A",
+      "kursplan":     "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=21898"
+    },
+    {
+      "kurskod":      "GD008G",
+      "namn":         "Typografi och form för webb",
+      "progression":  "A",
+      "kursplan":     "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=21669"
+    },
+    {
+      "kurskod":      "DT003G",
+      "namn":         "Databaser",
+      "progression":  "A",
+      "kursplan":     "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=21595"
+    },
+    {
+      "kurskod":      "DT068G",
+      "namn":         "Webbanvändbarhet",
+      "progression":  "B",
+      "kursplan":     "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=19699"
+    },
+    {
+      "kurskod":      "DT152G",
+      "namn":         "Webbdesign för CMS",
+      "progression":  "B",
+      "kursplan":     "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=21872"
+    },
+    {
+      "kurskod":      "DT173G",
+      "namn":         "Webbutveckling III",
+      "progression":  "B",
+      "kursplan":     "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=21873"
+    },
+    {
+      "kurskod":      "IK060G",
+      "namn":         "Projektledning",
+      "progression":  "A",
+      "kursplan":     "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=18594"
+    } 	 	 	 		
+    
+  ]
+}

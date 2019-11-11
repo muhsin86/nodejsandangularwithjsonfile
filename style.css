@@ -1,0 +1,46 @@
+﻿/*
+    Stilmall för Moment 1 - DT162G, JavaScript-baserad webbutveckling 
+    Fyll i egna CSS-regler här under för att snygga till webbsidan
+*/
+body {
+    font-family: georgia, serif;
+    font-size: 18px;
+    line-height: 1.6em;
+    background-color: rgb(124, 148, 133);
+}
+.container {
+    width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+}
+h1 { text-align: center; color: rgba(184, 6, 6, 0.575); font-variant-caps: petite-caps; border-bottom: 1px solid sienna;}
+h2 { text-align: center; font-variant-caps: petite-caps;}
+.information { text-align: center; font-variant-caps: petite-caps;}
+
+
+p { margin: 2px 0 2px 0; }
+
+.form-control{
+    width: 20%;
+    padding: 4px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+label{font-variant-caps: petite-caps;}
+thead td { font-weight: bold; }
+
+footer {
+    text-align: center; margin-top: 2em; font-size: 20px; font-variant-caps: petite-caps;
+}
+
+
+/* table */
+table {border-collapse: collapse; width: 100%; max-width: 960px; margin:auto}
+  th, td{color: rgba(255, 255, 255, 0.575); text-align: left; padding: 8px; font-variant-caps: petite-caps;}
+  thead{background-color: rgb(32, 28, 28); font-variant-caps: petite-caps;}
+  tr:nth-child(even){background-color: #bd471077;}
+  table a {text-decoration: none; color: rgb(0, 0, 0);}
+  table a:hover{color: rgb(77, 44, 32);}
+
+.kurser {margin: 1em 0 1em 0;}
